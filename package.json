@@ -1,0 +1,32 @@
+{
+  "name": "youtubecrawler",
+  "version": "1.0.0",
+  "description": "Web crawler for Node.js",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SasaBabe/YoutubeCrawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "nodejs",
+    "nightmare",
+    "mysql",
+    "javascript"
+  ],
+  "author": "AuroreSasa (pucca51834@gmail.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SasaBabe/YoutubeCrawler/issues"
+  },
+  "homepage": "https://github.com/SasaBabe/YoutubeCrawler#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^16.2.0",
+    "nightmare": "^3.0.2"
+  }
+}
